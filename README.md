@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Mini CRM - Lead Tracker
 
 A lead management system with a Kanban board interface. Drag and drop leads between different status columns to track your sales pipeline.
@@ -22,6 +23,8 @@ A lead management system with a Kanban board interface. Drag and drop leads betw
 
 ### 1. Clone the repository
 =======
+=======
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 # 🚀 Mini CRM - Lead Tracker
 
 A simple and efficient **Lead Management System** with a Kanban board interface to track your sales pipeline. Easily manage leads by dragging and dropping them across different stages.
@@ -73,6 +76,9 @@ A simple and efficient **Lead Management System** with a Kanban board interface 
 
 ### 1️⃣ Clone the Repository
 
+<<<<<<< HEAD
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
+=======
 >>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 ```bash
 git clone https://github.com/PranavsinhRajput/mini-crm-project.git
@@ -80,12 +86,18 @@ cd mini-crm-project
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### 2. Setup Backend
 =======
+=======
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 ---
 
 ### 2️⃣ Backend Setup
 
+<<<<<<< HEAD
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
+=======
 >>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 ```bash
 cd backend
@@ -93,7 +105,12 @@ npm install
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Create `.env` file:
+=======
+#### Create `.env` file
+
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 =======
 #### Create `.env` file
 
@@ -106,7 +123,12 @@ JWT_EXPIRE=7d
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Create database and run schema:
+=======
+#### Setup Database
+
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 =======
 #### Setup Database
 
@@ -120,7 +142,12 @@ psql -U postgres -d mini_crm -f database/schema.sql
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Start backend:
+=======
+#### Start Backend Server
+
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 =======
 #### Start Backend Server
 
@@ -130,12 +157,18 @@ npm start
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### 3. Setup Frontend
 =======
+=======
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 ---
 
 ### 3️⃣ Frontend Setup
 
+<<<<<<< HEAD
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
+=======
 >>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 ```bash
 cd frontend
@@ -143,7 +176,12 @@ npm install
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Create `.env` file:
+=======
+#### Create `.env` file
+
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 =======
 #### Create `.env` file
 
@@ -153,7 +191,12 @@ VITE_API_URL=http://localhost:5000/api
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Start frontend:
+=======
+#### Start Frontend
+
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 =======
 #### Start Frontend
 
@@ -162,6 +205,7 @@ Start frontend:
 npm run dev
 ```
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ## Usage
 
@@ -188,6 +232,8 @@ npm run dev
 ```
 mini-crm-project/
 =======
+=======
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 ---
 
 ## ▶️ Usage
@@ -233,13 +279,19 @@ mini-crm-project/
 ```
 mini-crm-project/
 │
+<<<<<<< HEAD
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
+=======
 >>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 ├── backend/          # Node.js API
 ├── frontend/         # React application
 └── README.md
 ```
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
 
 ---
 
@@ -265,4 +317,7 @@ Developed by **Vaishnavi hajare**
 ---
 
 ⭐ If you like this project, consider giving it a star!
+<<<<<<< HEAD
+>>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
+=======
 >>>>>>> af193c14bf85e85ba3c3d95752dd1dac94e82812
